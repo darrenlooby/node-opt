@@ -1,6 +1,6 @@
 {
   "name": "node-opt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Very basic options",
   "main": "lib/index.js",
   "directories": {
