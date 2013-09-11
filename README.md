@@ -24,7 +24,8 @@ opt();
 // returns all params that are stored
 
 opt({obj});
-// stores a set of pairs (overwriting). If JSON can be string and will break functionality (won't throw error however)
+// stores a set of pairs (overwriting).
+//If JSON can be string and will break functionality (won't throw error however)
 
 opt('name');
 // returns the value associated with that name
