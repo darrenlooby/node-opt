@@ -9,6 +9,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "homepage": "https://github.com/darrenlooby/node-opt.git",
+  "bugs": {
+    "url": "https://github.com/darrenlooby/node-opt/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darrenlooby/node-opt.git"
+  },
+  "engines": {
+    "node": ">=0.1.90"
+  },
   "keywords": [
     "Options",
     "node"
