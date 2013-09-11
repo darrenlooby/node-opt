@@ -1,5 +1,5 @@
 {
-  "name": "OptJS",
+  "name": "node-opt",
   "version": "1.0.0",
   "description": "Very basic options",
   "main": "/lib/index.js",
