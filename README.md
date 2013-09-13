@@ -20,7 +20,7 @@ No namespacing! Any part of your application can see the data.
 
 ``` js
 
-var opt = require('./opt');
+var opt = require('node-opt');
 
 opt();
 // returns all params that are stored
